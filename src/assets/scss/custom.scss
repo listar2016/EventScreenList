@@ -1,0 +1,54 @@
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
+
+.side-bar{
+  width: 260px;
+}
+
+.event-content {
+  width: calc(100% - 260px);
+  margin-left: 260px;
+
+  .item-card {
+    cursor: pointer;
+    &:hover {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      z-index: 10;
+    }
+    &.active {
+      border: 5px solid #37a000;
+    }
+    .fix-desc {
+      max-height: 50px;
+      overflow: hidden;
+    }
+    .tags {
+      padding-left: 0;
+      display: flex;
+      flex-direction: row;
+      .badge {
+        margin-right: 0.2rem;
+      }
+    }
+  }
+  .edit-link {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+  }
+  .view-link {
+    font-size: 1.5em;
+    color: gray;
+    &.active {
+      color: #007bff;
+    }
+  }
+}
+.footer {
+  position: fixed;
+  height: 55px;
+  bottom: 0;
+  width: 100%;
+  z-index: 20;
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}

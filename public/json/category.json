@@ -1,0 +1,54 @@
+{
+	"data": [
+		{
+			"categoryId": 229,
+			"categoryName": "Sport News / Business",
+			"categoryOrder": 117
+		},
+		{
+			"categoryId": 140,
+			"categoryName": "NGOs, Charities & Pressure Groups",
+			"categoryOrder": 160
+		},
+		{
+			"categoryId": 59,
+			"categoryName": "Offbeat",
+			"categoryOrder": 195
+		},
+		{
+			"categoryId": 64,
+			"categoryName": "Consumer Exhibitions & Fairs",
+			"categoryOrder": 6500
+		},
+		{
+			"categoryId": 104,
+			"categoryName": "Children (0-12 years)",
+			"categoryOrder": 8400
+		},
+		{
+			"categoryId": 150,
+			"categoryName": "Toys & Games",
+			"categoryOrder": 10400
+		},
+		{
+			"categoryId": 95,
+			"categoryName": "Trade Exhibitions",
+			"categoryOrder": 11295
+		},
+		{
+			"categoryId": 36,
+			"categoryName": "Food & Drug Retailers",
+			"categoryOrder": 15400
+		},
+		{
+			"categoryId": 37,
+			"categoryName": "Food, Drink & Tobacco",
+			"categoryOrder": 15500
+		},
+		{
+			"categoryId": 40,
+			"categoryName": "Household & Personal Goods",
+			"categoryOrder": 15900
+		}
+	]
+}

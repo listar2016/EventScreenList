@@ -1,0 +1,4617 @@
+{
+  "data": [
+    {
+      "itemId": 3594826,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "UK Speedcubing Championship 2019",
+      "altSummary": "",
+      "description": "UK Cube Association presents the UK Speedcubing Championships 2019, an annual event which sees 'speedcubers' from around the world compete for the title of UK Champion",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20283,
+      "isConfirmed": true,
+      "isProvisional": false,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-10-26T21:11:46.35",
+      "startDate": "2019-10-25T00:00:00",
+      "endDate": "2019-10-27T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "The Forum, Stevenage",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "UK Cube Association",
+      "organisationId": 76257,
+      "comments": "chk link",
+      "contacts": [
+        {
+          "pressContactID": 150300,
+          "organisationID": 76257,
+          "pressContactName": "",
+          "pressContactOffice": "UK Cube Association",
+          "pressContactTelephone": "",
+          "pressContactMobile": "",
+          "pressContactEmail": "ukcubeassociation@gmail.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 150,
+          "categoryName": "Toys & Games",
+          "categoryOrder": 10400
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9507815,
+          "itemID": 3594826,
+          "pressContactID": 150300,
+          "pressContact": {
+            "pressContactID": 150300,
+            "organisationID": 76257,
+            "pressContactName": "",
+            "pressContactOffice": "UK Cube Association",
+            "pressContactTelephone": "",
+            "pressContactMobile": "",
+            "pressContactEmail": "ukcubeassociation@gmail.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false,
+      "location": {
+        "lat": 51.9042876,
+        "lng": -0.2038983
+      }
+    },
+    {
+      "itemId": 3782173,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "BRICKLIVE Liverpool for LEGO fans",
+      "altSummary": "",
+      "description": "BRICKLIVE Liverpool, featuring displays, workshops, professional LEGO Designers, and a play area where visitors can build their own creations",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20189,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2019-09-04T12:10:04.783",
+      "startDate": "2019-10-25T00:00:00",
+      "endDate": "2019-10-27T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Exhibition Centre Liverpool, Kings Dock St, Liverpool Waterfront, Liverpool",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Brick",
+      "organisationId": 68867,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 235412,
+          "organisationID": 68867,
+          "pressContactName": "",
+          "pressContactOffice": "Brick Live",
+          "pressContactTelephone": "+44 (0) 207 225 2000",
+          "pressContactMobile": "",
+          "pressContactEmail": "info@bricklive.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        },
+        {
+          "categoryId": 150,
+          "categoryName": "Toys & Games",
+          "categoryOrder": 10400
+        }
+      ],
+      "periodYear": null,
+      "teamId": 4,
+      "website": "http://bricklive.co.uk/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "legoshow",
+      "twitterHashtag": "BRICKLIVE",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9453298,
+          "itemID": 3782173,
+          "pressContactID": 235412,
+          "pressContact": {
+            "pressContactID": 235412,
+            "organisationID": 68867,
+            "pressContactName": "",
+            "pressContactOffice": "Brick Live",
+            "pressContactTelephone": "+44 (0) 207 225 2000",
+            "pressContactMobile": "",
+            "pressContactEmail": "info@bricklive.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false,
+      "location": {
+        "lat": 53.3961414,
+        "lng": -2.9929148
+      }
+    },
+    {
+      "itemId": 3595645,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "NSPCC Gherkin Challenge",
+      "altSummary": "",
+      "description": "The Gherkin Challenge at London's 'Gherkin' building, inviting corporate teams, individuals, groups of friends and families to take the stairs and race up 38 floors to the top to raise funds for the NSPCC",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20283,
+      "isConfirmed": true,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-10-28T21:12:01.097",
+      "startDate": "2019-10-27T00:00:00",
+      "endDate": "2019-10-27T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": "2019-10-27T00:01:00",
+      "venue": "30 St Mary Axe (The Gherkin), London",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "NSPCC",
+      "organisationId": 11538,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 201767,
+          "organisationID": 11538,
+          "pressContactName": "",
+          "pressContactOffice": "NSPCC press",
+          "pressContactTelephone": "+44 (0) 20 7825 2514",
+          "pressContactMobile": "",
+          "pressContactEmail": "media@nspcc.org.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 140,
+          "categoryName": "NGOs, Charities & Pressure Groups",
+          "categoryOrder": 160
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 229,
+          "categoryName": "Sport News / Business",
+          "categoryOrder": 117
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.nspcc.org.uk/gherkin",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "NSPCC",
+      "twitterHashtag": "GherkinChallenge",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9501864,
+          "itemID": 3595645,
+          "pressContactID": 201767,
+          "pressContact": {
+            "pressContactID": 201767,
+            "organisationID": 11538,
+            "pressContactName": "",
+            "pressContactOffice": "NSPCC press",
+            "pressContactTelephone": "+44 (0) 20 7825 2514",
+            "pressContactMobile": "",
+            "pressContactEmail": "media@nspcc.org.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3791660,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Champs Trade Show Chicago",
+      "altSummary": "",
+      "description": "Champs Trade Show Chicago, counterculture business-to-business wholesale trade expo for the smoke shop industry",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20189,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2019-09-24T11:06:20.307",
+      "startDate": "2019-10-29T00:00:00",
+      "endDate": "2019-10-31T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Donald E Stephens Convention Center, 5555 N River Rd, Rosemont, IL",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Champs Trade Shows",
+      "organisationId": 79588,
+      "comments": "NB-more than one event in diff locations, https://www.champstradeshows.com/upcoming-shows",
+      "contacts": [
+        {
+          "pressContactID": 157912,
+          "organisationID": 79588,
+          "pressContactName": "",
+          "pressContactOffice": "Champs Trade Shows",
+          "pressContactTelephone": "1 818 855 1528",
+          "pressContactMobile": "",
+          "pressContactEmail": "",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 95,
+          "categoryName": "Trade Exhibitions",
+          "categoryOrder": 11295
+        },
+        {
+          "categoryId": 36,
+          "categoryName": "Food & Drug Retailers",
+          "categoryOrder": 15400
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        },
+        {
+          "categoryId": 40,
+          "categoryName": "Household & Personal Goods",
+          "categoryOrder": 15900
+        }
+      ],
+      "periodYear": null,
+      "teamId": 4,
+      "website": "http://www.champstradeshows.com/",
+      "countryName": "United States",
+      "twitterWebsite": "champstradeshow",
+      "twitterHashtag": "",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9479552,
+          "itemID": 3791660,
+          "pressContactID": 157912,
+          "pressContact": {
+            "pressContactID": 157912,
+            "organisationID": 79588,
+            "pressContactName": "",
+            "pressContactOffice": "Champs Trade Shows",
+            "pressContactTelephone": "1 818 855 1528",
+            "pressContactMobile": "",
+            "pressContactEmail": "",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false,
+      "location": {
+        "lat": 41.9792588,
+        "lng": -87.8626865
+      }
+    },
+    {
+      "itemId": 3598195,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Salon du Chocolat",
+      "altSummary": "",
+      "description": "Annual Salon du Chocolat - international meeting of chocolate, patisserie, confectionery and ice-cream trade professionals. Includes awards and fashion show featuring chocolate 'couture' dresses, demonstrations, workshops and BtoB featuring a selection of key suppliers involved in the chocolate and cocoa industry",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20166,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-10-31T21:02:48.847",
+      "startDate": "2019-10-30T00:00:00",
+      "endDate": "2019-11-03T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Paris Expo Porte de Versailles, Paris",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Salon du Chocolat",
+      "organisationId": 60052,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 109548,
+          "organisationID": 60052,
+          "pressContactName": "",
+          "pressContactOffice": "Salon du Chocolat",
+          "pressContactTelephone": "",
+          "pressContactMobile": "",
+          "pressContactEmail": "contact@salonduchocolat.fr",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 95,
+          "categoryName": "Trade Exhibitions",
+          "categoryOrder": 11295
+        },
+        {
+          "categoryId": 79,
+          "categoryName": "Fashion & Beauty",
+          "categoryOrder": 8800
+        },
+        {
+          "categoryId": 106,
+          "categoryName": "Wining & Dining",
+          "categoryOrder": 11000
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        },
+        {
+          "categoryId": 40,
+          "categoryName": "Household & Personal Goods",
+          "categoryOrder": 15900
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        }
+      ],
+      "periodYear": null,
+      "teamId": 4,
+      "website": "http://www.salonduchocolat.fr/?lang=uk&PHPSESSID=ba480884d569126e57b2a38ab9b6ebad",
+      "countryName": "France",
+      "twitterWebsite": "salonchocolat",
+      "twitterHashtag": "Salonduchocolat",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9301390,
+          "itemID": 3598195,
+          "pressContactID": 109548,
+          "pressContact": {
+            "pressContactID": 109548,
+            "organisationID": 60052,
+            "pressContactName": "",
+            "pressContactOffice": "Salon du Chocolat",
+            "pressContactTelephone": "",
+            "pressContactMobile": "",
+            "pressContactEmail": "contact@salonduchocolat.fr",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3598255,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Celebrity effigy for annual Kent bonfire announced at press day",
+      "altSummary": null,
+      "description": "Press day for the Edenbridge Bonfire Society in Kent, announcing this year's effigy to be burnt at the Guy Fawkes celebrations and firework display on Saturday. The subject is usually a prominent and recently disgraced celebrity. Previous subjects include Gordon Brown, Donald Trump, Katie Price, Wayne Rooney, Mario Balotelli and Lance Armstrong",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 19857,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-10-31T21:04:46.087",
+      "startDate": "2019-10-30T00:00:00",
+      "endDate": "2019-10-30T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Breezehurst Farm, Edenbridge",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Edenbridge Bonfire Society",
+      "organisationId": 31206,
+      "comments": "Venue always Breezehurst Farm",
+      "contacts": [
+        {
+          "pressContactID": 149676,
+          "organisationID": 31206,
+          "pressContactName": "",
+          "pressContactOffice": "Edenbridge Bonfire Society",
+          "pressContactTelephone": "+44 (0) 1732 863 120",
+          "pressContactMobile": "",
+          "pressContactEmail": "press@edenbridgebonfire.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "TheBonfireBoys",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        },
+        {
+          "categoryId": 161,
+          "categoryName": "Press Previews",
+          "categoryOrder": 9700
+        },
+        {
+          "categoryId": 125,
+          "categoryName": "Seasonal Events & Celebrations",
+          "categoryOrder": 10100
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.edenbridgebonfire.co.uk",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "edenbonfire",
+      "twitterHashtag": "EdenbridgeBonfire",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9199569,
+          "itemID": 3598255,
+          "pressContactID": 149676,
+          "pressContact": {
+            "pressContactID": 149676,
+            "organisationID": 31206,
+            "pressContactName": "",
+            "pressContactOffice": "Edenbridge Bonfire Society",
+            "pressContactTelephone": "+44 (0) 1732 863 120",
+            "pressContactMobile": "",
+            "pressContactEmail": "press@edenbridgebonfire.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "TheBonfireBoys",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3598251,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Scary Beard of Halloween 2019 winner announced",
+      "altSummary": "",
+      "description": "Scary Beard of Halloween 2019 winner announced",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 18073,
+      "isConfirmed": true,
+      "isProvisional": false,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-10-31T21:04:40.697",
+      "startDate": "2019-10-31T00:00:00",
+      "endDate": "2019-10-31T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Beard Liberation Front",
+      "organisationId": 19376,
+      "comments": "chk nominees - e 22 oct * awarded every year on October 31st",
+      "contacts": [
+        {
+          "pressContactID": 23106,
+          "organisationID": 19376,
+          "pressContactName": "Keith Flett",
+          "pressContactOffice": "Beard Liberation Front",
+          "pressContactTelephone": "+44 (0) 7803 167 266",
+          "pressContactMobile": "",
+          "pressContactEmail": "keith.flett@bt.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 79,
+          "categoryName": "Fashion & Beauty",
+          "categoryOrder": 8800
+        },
+        {
+          "categoryId": 125,
+          "categoryName": "Seasonal Events & Celebrations",
+          "categoryOrder": 10100
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://kmflett.wordpress.com/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "kmflett",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9522306,
+          "itemID": 3598251,
+          "pressContactID": 23106,
+          "pressContact": {
+            "pressContactID": 23106,
+            "organisationID": 19376,
+            "pressContactName": "Keith Flett",
+            "pressContactOffice": "Beard Liberation Front",
+            "pressContactTelephone": "+44 (0) 7803 167 266",
+            "pressContactMobile": "",
+            "pressContactEmail": "keith.flett@bt.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3598326,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Halloween",
+      "altSummary": null,
+      "description": "Halloween, celebrated on the eve of the Christian festival of All Souls and historically viewed as a time when souls could wander freely across the earth and evil spirits, the devil and witches were at their most powerful. The word Hallowe'en is of Scottish origin meaning 'Hallows Evening'. Tonight is also known as 'All Hallows Eve' and 'Trick or Treat night'",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 10000,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": true,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-10-31T21:06:47.997",
+      "startDate": "2019-10-31T00:00:00",
+      "endDate": "2019-10-31T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": null,
+      "organisationId": 0,
+      "comments": "fixed * possibly take out of *news* major events the day before",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryName": "International News",
+          "categoryOrder": 95
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 230,
+          "categoryName": "Scottish News & Events",
+          "categoryOrder": 18800
+        },
+        {
+          "categoryId": 183,
+          "categoryName": "US Major Events",
+          "categoryOrder": 5000
+        },
+        {
+          "categoryId": 211,
+          "categoryName": "US Top Stories",
+          "categoryOrder": 5300
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        },
+        {
+          "categoryId": 148,
+          "categoryName": "Nightlife",
+          "categoryOrder": 9600
+        },
+        {
+          "categoryId": 125,
+          "categoryName": "Seasonal Events & Celebrations",
+          "categoryOrder": 10100
+        },
+        {
+          "categoryId": 212,
+          "categoryName": "US Entertainment Headlines",
+          "categoryOrder": 5600
+        },
+        {
+          "categoryId": 213,
+          "categoryName": "US Entertainment Top Stories",
+          "categoryOrder": 5700
+        },
+        {
+          "categoryId": 214,
+          "categoryName": "US Lifestyle Headlines",
+          "categoryOrder": 8000
+        },
+        {
+          "categoryId": 215,
+          "categoryName": "US Lifestyle Top Stories",
+          "categoryOrder": 8100
+        },
+        {
+          "categoryId": 151,
+          "categoryName": "Youth (13-25 years)",
+          "categoryOrder": 11100
+        },
+        {
+          "categoryId": 164,
+          "categoryName": "Entertainment Headlines",
+          "categoryOrder": 15
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 165,
+          "categoryName": "Lifestyle Headlines",
+          "categoryOrder": 20
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "International",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3599883,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "BRICKLIVE Birmingham for LEGO fans",
+      "altSummary": "",
+      "description": "BRICKLIVE Birmingham, featuring displays, workshops, professional LEGO Designers, and a play area where visitors can build their own creations",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20189,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-01T21:13:58.717",
+      "startDate": "2019-10-31T00:00:00",
+      "endDate": "2019-11-03T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "NEC, North Ave, Birmingham",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Brick",
+      "organisationId": 68867,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 235412,
+          "organisationID": 68867,
+          "pressContactName": "",
+          "pressContactOffice": "Brick Live",
+          "pressContactTelephone": "+44 (0) 207 225 2000",
+          "pressContactMobile": "",
+          "pressContactEmail": "info@bricklive.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        },
+        {
+          "categoryId": 150,
+          "categoryName": "Toys & Games",
+          "categoryOrder": 10400
+        }
+      ],
+      "periodYear": null,
+      "teamId": 4,
+      "website": "http://bricklive.co.uk/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "legoshow",
+      "twitterHashtag": "BRICKLIVE",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9453285,
+          "itemID": 3599883,
+          "pressContactID": 235412,
+          "pressContact": {
+            "pressContactID": 235412,
+            "organisationID": 68867,
+            "pressContactName": "",
+            "pressContactOffice": "Brick Live",
+            "pressContactTelephone": "+44 (0) 207 225 2000",
+            "pressContactMobile": "",
+            "pressContactEmail": "info@bricklive.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3798008,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "",
+      "altSummary": "",
+      "description": "World Championship Scotch Pie Awards entry deadline",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 19857,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2019-10-07T09:40:50.283",
+      "startDate": "2019-10-31T00:00:00",
+      "endDate": "2019-10-31T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Scottish Bakers",
+      "organisationId": 70046,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 223273,
+          "organisationID": 109596,
+          "pressContactName": "Julie Fourcade ",
+          "pressContactOffice": "Fourcade Communications",
+          "pressContactTelephone": "+ 44 (0) 1903 741 546",
+          "pressContactMobile": "+ 44 (0) 7850 523 615",
+          "pressContactEmail": "julie@fourcade.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 230,
+          "categoryName": "Scottish News & Events",
+          "categoryOrder": 18800
+        },
+        {
+          "categoryId": 229,
+          "categoryName": "Sport News / Business",
+          "categoryOrder": 117
+        },
+        {
+          "categoryId": 106,
+          "categoryName": "Wining & Dining",
+          "categoryOrder": 11000
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.worldchampionshipscotchpieawards.org",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "ScottishBakers",
+      "twitterHashtag": "ScotchPieAwards",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9522105,
+          "itemID": 3798008,
+          "pressContactID": 223273,
+          "pressContact": {
+            "pressContactID": 223273,
+            "organisationID": 109596,
+            "pressContactName": "Julie Fourcade ",
+            "pressContactOffice": "Fourcade Communications",
+            "pressContactTelephone": "+ 44 (0) 1903 741 546",
+            "pressContactMobile": "+ 44 (0) 7850 523 615",
+            "pressContactEmail": "julie@fourcade.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3799549,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Planet Mercury 'in retrograde' amid malfunction warnings",
+      "altSummary": "",
+      "description": "Mercury begins a three-week course in which it appears to loop backwards from the perspective of the Earth. Some scientists say this 'retrograde' of the closest planet to the sun could slow down communication systems, cause some gadgets to malfunction and computers to crash * Start of the phenomenon coincides with the UK's scheduled departure from the EU",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 9925,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": false,
+      "createDate": "2019-10-10T11:49:02.813",
+      "startDate": "2019-10-31T00:00:00",
+      "endDate": "2019-11-20T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "",
+      "organisationId": 0,
+      "comments": "https://www.vogue.in/news/content/mercury-retrograde-october-2019-effects-dates-astrology-susan-miller ; Mail 5/10 ; https://www.vice.com/en_us/article/kz43m3/monthly-horoscope-taurus-october-2019 ",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 135,
+          "categoryName": "Science",
+          "categoryOrder": 190
+        },
+        {
+          "categoryId": 41,
+          "categoryName": "Tech - Hardware",
+          "categoryOrder": 16700
+        },
+        {
+          "categoryId": 105,
+          "categoryName": "Technology / Gadgets",
+          "categoryOrder": 10300
+        },
+        {
+          "categoryId": 18,
+          "categoryName": "International News",
+          "categoryOrder": 95
+        }
+      ],
+      "periodYear": null,
+      "teamId": 1,
+      "website": "",
+      "countryName": "International",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": null,
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3599900,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Entries accepted for spoof version of The Turner Prize from today",
+      "altSummary": "",
+      "description": "Entries for this year's Turnip Prize, a spoof version of the Turner Prize, accepted from today. The motto of the prize is 'We know its s---, but is it art?'. Winner is presented with the prize of a turnip mounted on a six-inch rusty nail. The winner will be announced 3 Dec",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 8596,
+      "isConfirmed": true,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-01T21:15:01.467",
+      "startDate": "2019-11-01T00:00:00",
+      "endDate": "2019-11-21T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "The Turnip Prize",
+      "organisationId": 60429,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 110401,
+          "organisationID": 60429,
+          "pressContactName": "Trevor Prideaux",
+          "pressContactOffice": "The Turnip Prize",
+          "pressContactTelephone": "+44 (0)7812 848 011",
+          "pressContactMobile": "",
+          "pressContactEmail": "trevorprideaux@hotmail.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 75,
+          "categoryName": "Art",
+          "categoryOrder": 5800
+        },
+        {
+          "categoryId": 100,
+          "categoryName": "Arts & Culture",
+          "categoryOrder": 5850
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "TurnipPrizeBook",
+      "twitterHashtag": "theturnipprize",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9508976,
+          "itemID": 3599900,
+          "pressContactID": 110401,
+          "pressContact": {
+            "pressContactID": 110401,
+            "organisationID": 60429,
+            "pressContactName": "Trevor Prideaux",
+            "pressContactOffice": "The Turnip Prize",
+            "pressContactTelephone": "+44 (0)7812 848 011",
+            "pressContactMobile": "",
+            "pressContactEmail": "trevorprideaux@hotmail.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3602188,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Giant effigy burnt on Kent bonfire",
+      "altSummary": "",
+      "description": "Edenbridge Bonfire Society in Kent burns a giant effigy to celebrate Guy Fawkes night and raise money for local charities. The Society burns an effigy of a prominent, topical celebrity every year. Last year's Guy was former Foreign Secretary and current Prime Minister Boris Johnson. Event begins with a torch-lit procession through Edenbridge, led by the Bishop of the Bonfire",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 18073,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": true,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-03T21:14:52.34",
+      "startDate": "2019-11-02T00:00:00",
+      "endDate": "2019-11-02T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Edenbridge",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Edenbridge Bonfire Society",
+      "organisationId": 31206,
+      "comments": "chk celebrity, tba 22 oct",
+      "contacts": [
+        {
+          "pressContactID": 149676,
+          "organisationID": 31206,
+          "pressContactName": "",
+          "pressContactOffice": "Edenbridge Bonfire Society",
+          "pressContactTelephone": "+44 (0) 1732 863 120",
+          "pressContactMobile": "",
+          "pressContactEmail": "press@edenbridgebonfire.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "TheBonfireBoys",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 86,
+          "categoryName": "Politics EU",
+          "categoryOrder": 90
+        },
+        {
+          "categoryId": 83,
+          "categoryName": "Politics Westminster",
+          "categoryOrder": 70
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 67,
+          "categoryName": "Film - General",
+          "categoryOrder": 6700
+        },
+        {
+          "categoryId": 125,
+          "categoryName": "Seasonal Events & Celebrations",
+          "categoryOrder": 10100
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        },
+        {
+          "categoryId": 164,
+          "categoryName": "Entertainment Headlines",
+          "categoryOrder": 15
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.edenbridgebonfire.co.uk/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "edenbonfire",
+      "twitterHashtag": "EdenbridgeBonfire",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9522315,
+          "itemID": 3602188,
+          "pressContactID": 149676,
+          "pressContact": {
+            "pressContactID": 149676,
+            "organisationID": 31206,
+            "pressContactName": "",
+            "pressContactOffice": "Edenbridge Bonfire Society",
+            "pressContactTelephone": "+44 (0) 1732 863 120",
+            "pressContactMobile": "",
+            "pressContactEmail": "press@edenbridgebonfire.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "TheBonfireBoys",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3602192,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Giant omelette celebration in U.S.",
+      "altSummary": "",
+      "description": "Abbeville's '5,000 Egg' Giant Omelette Celebration, annual celebration of the popular egg-based dish, including the cooking of a giant omelette using 5000 eggs plus one for each year of the festival. This year's number is 5034",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 19857,
+      "isConfirmed": true,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-03T21:14:54.45",
+      "startDate": "2019-11-02T00:00:00",
+      "endDate": "2019-11-03T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Abbeville, LA",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Giant Omelette",
+      "organisationId": 27931,
+      "comments": "AP house style is 'omelet', however Omelette is the name of the event. Have put omelet in description where not capitalized and in the title in keyword box *   Future Dates: Nov 7 & 8, 2020....Nov 6 & 7, 2021",
+      "contacts": [
+        {
+          "pressContactID": 122656,
+          "organisationID": 27931,
+          "pressContactName": "Arlene Collée",
+          "pressContactOffice": "Giant Omelette",
+          "pressContactTelephone": "1 337 344 9232",
+          "pressContactMobile": "",
+          "pressContactEmail": "arlene@yourtravelevent.com",
+          "pressContactComment": "Previously Arlene White",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 179,
+          "categoryName": "US Wining & Dining",
+          "categoryOrder": 10900
+        },
+        {
+          "categoryId": 168,
+          "categoryName": "US Food, Drink & Tobacco",
+          "categoryOrder": 17400
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.giantomelette.org",
+      "countryName": "United States",
+      "twitterWebsite": "giantomelettefe",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9510531,
+          "itemID": 3602192,
+          "pressContactID": 122656,
+          "pressContact": {
+            "pressContactID": 122656,
+            "organisationID": 27931,
+            "pressContactName": "Arlene Collée",
+            "pressContactOffice": "Giant Omelette",
+            "pressContactTelephone": "1 337 344 9232",
+            "pressContactMobile": "",
+            "pressContactEmail": "arlene@yourtravelevent.com",
+            "pressContactComment": "Previously Arlene White",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3602184,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "National Sandwich Day in the U.S.",
+      "altSummary": null,
+      "description": "National Sandwich Day in the U.S., celebrating the popular lunchtime snack and its namesake John Montagu, the fourth Earl of Sandwich, who is credited with inventing the famous food combination",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 4627,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-03T21:14:50.217",
+      "startDate": "2019-11-03T00:00:00",
+      "endDate": "2019-11-03T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "",
+      "organisationId": 0,
+      "comments": "fixed 3 Nov",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 98,
+          "categoryName": "Awareness Days & Campaigns",
+          "categoryOrder": 155
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 179,
+          "categoryName": "US Wining & Dining",
+          "categoryOrder": 10900
+        },
+        {
+          "categoryId": 106,
+          "categoryName": "Wining & Dining",
+          "categoryOrder": 11000
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "United States",
+      "twitterWebsite": "",
+      "twitterHashtag": "NationalSandwichDay",
+      "timezone": "BST",
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3602298,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Bonhams London to Brighton Veteran Car Run",
+      "altSummary": "",
+      "description": "Bonhams London to Brighton Veteran Car Run, which sees owners of pre-1905 veteran cars drive 60 miles from London to Brighton. The world's longest-running motoring event takes place annually on the first Sunday in November, and commemorates the Emancipation Run of 14 Nov 1896 which celebrated the passing into law of the Locomotives on the Highway Act, which raised the speed limit for 'light locomotives' from four to 14 mph and abolished the requirement for vehicles to be preceded by a man on foot waving a red flag. The event often attracts celebrity car enthusiasts",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20283,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-04T21:01:26.957",
+      "startDate": "2019-11-03T00:00:00",
+      "endDate": "2019-11-03T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Hyde Park, London",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "London to Brighton Veteran Car Run",
+      "organisationId": 31122,
+      "comments": "chk sponsors each year",
+      "contacts": [
+        {
+          "pressContactID": 146519,
+          "organisationID": 31122,
+          "pressContactName": "Jonathan Gill",
+          "pressContactOffice": "MPA Creative",
+          "pressContactTelephone": "+44 (0) 1372 414122",
+          "pressContactMobile": "",
+          "pressContactEmail": "VCRmedia@MPACreative.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 103,
+          "categoryName": "Motoring",
+          "categoryOrder": 9400
+        },
+        {
+          "categoryId": 55,
+          "categoryName": "Vehicles & Components",
+          "categoryOrder": 18200
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.veterancarrun.com",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "VeteranCarRun",
+      "twitterHashtag": "VeteranCarRun",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9372223,
+          "itemID": 3602298,
+          "pressContactID": 146519,
+          "pressContact": {
+            "pressContactID": 146519,
+            "organisationID": 31122,
+            "pressContactName": "Jonathan Gill",
+            "pressContactOffice": "MPA Creative",
+            "pressContactTelephone": "+44 (0) 1372 414122",
+            "pressContactMobile": "",
+            "pressContactEmail": "VCRmedia@MPACreative.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3602303,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Mischief Night",
+      "altSummary": null,
+      "description": "Mischief Night, traditional North of England night of practical jokes bordering on petty vandalism on the eve of bonfire night. Typical jokes include 'knock and run', tipping bins and removing gates",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 16220,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-04T21:01:29.763",
+      "startDate": "2019-11-04T00:00:00",
+      "endDate": "2019-11-04T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": null,
+      "organisationId": 0,
+      "comments": "Always 4 Nov in Yorkshire, 30 Oct is some parts of UK",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 88,
+          "categoryName": "Law & Order",
+          "categoryOrder": 60
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        },
+        {
+          "categoryId": 125,
+          "categoryName": "Seasonal Events & Celebrations",
+          "categoryOrder": 10100
+        },
+        {
+          "categoryId": 151,
+          "categoryName": "Youth (13-25 years)",
+          "categoryOrder": 11100
+        }
+      ],
+      "periodYear": null,
+      "teamId": 1,
+      "website": "",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "BST",
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3613274,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "The Pushkar Camel Fair in India",
+      "altSummary": "",
+      "description": "The Pushkar Camel Fair, annual religious and cattle fair notable for the mass trading of 50,000 camels",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 8586,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-15T21:11:20.49",
+      "startDate": "2019-11-04T00:00:00",
+      "endDate": "2019-11-12T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Pushkar",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Pushkar Camel Fair",
+      "organisationId": 46893,
+      "comments": "",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 137,
+          "categoryName": "Animals / Pets",
+          "categoryOrder": 8200
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        },
+        {
+          "categoryId": 116,
+          "categoryName": "Religion & Ethics",
+          "categoryOrder": 9900
+        },
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 136,
+          "categoryName": "Agriculture / Farming",
+          "categoryOrder": 170
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.pushkar-camel-fair.com/",
+      "countryName": "India",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "BST",
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3606741,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Beard of the Year longlist announced",
+      "altSummary": "",
+      "description": "Beard of the Year 2019 longlist announced, ahead of announcement of the shortlist on 22 Nov, and winner on 28 Dec * Liverpool FC manager Jurgen Klopp earned an automatic place on the shortlist in May following his team's dramatic 4-0 victory against Barcelona in the Champions League semi-finals, and in August, cricketer Ben Stokes was given a free pass following his 'match winning performance' in the Third Ashes Test ",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20283,
+      "isConfirmed": true,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-08T21:06:28.223",
+      "startDate": "2019-11-07T00:00:00",
+      "endDate": "2019-11-07T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Beard Liberation Front",
+      "organisationId": 19376,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 23106,
+          "organisationID": 19376,
+          "pressContactName": "Keith Flett",
+          "pressContactOffice": "Beard Liberation Front",
+          "pressContactTelephone": "+44 (0) 7803 167 266",
+          "pressContactMobile": "",
+          "pressContactEmail": "keith.flett@bt.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 83,
+          "categoryName": "Politics Westminster",
+          "categoryOrder": 70
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 79,
+          "categoryName": "Fashion & Beauty",
+          "categoryOrder": 8800
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://kmflett.wordpress.com/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "kmflett",
+      "twitterHashtag": "",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9519326,
+          "itemID": 3606741,
+          "pressContactID": 23106,
+          "pressContact": {
+            "pressContactID": 23106,
+            "organisationID": 19376,
+            "pressContactName": "Keith Flett",
+            "pressContactOffice": "Beard Liberation Front",
+            "pressContactTelephone": "+44 (0) 7803 167 266",
+            "pressContactMobile": "",
+            "pressContactEmail": "keith.flett@bt.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3614563,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "",
+      "altSummary": "",
+      "description": "World Robot Olympiad (WRO) International Final 2019",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 9925,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-16T21:13:49.48",
+      "startDate": "2019-11-08T00:00:00",
+      "endDate": "2019-11-10T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Gyor",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "World Robot Olympics ",
+      "organisationId": 111373,
+      "comments": "https://wro-association.org/wro-2019/2019-season/ ",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 105,
+          "categoryName": "Technology / Gadgets",
+          "categoryOrder": 10300
+        },
+        {
+          "categoryId": 150,
+          "categoryName": "Toys & Games",
+          "categoryOrder": 10400
+        },
+        {
+          "categoryId": 135,
+          "categoryName": "Science",
+          "categoryOrder": 190
+        }
+      ],
+      "periodYear": null,
+      "teamId": 1,
+      "website": "http://www.wro2017.org/",
+      "countryName": "Hungary",
+      "twitterWebsite": "WROINDIA",
+      "twitterHashtag": "WRO2017",
+      "timezone": "GMT",
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3782190,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "KSI v Logan Paul turn pro for boxing rematch in Los Angeles",
+      "altSummary": "",
+      "description": "YouTube influencers KSI and Logan Paul face each other in a professional boxing match in Los Angeles following their August 2018 amateur debut in Manchester, which ended in a majority draw. The 2018 fight's livestream on YouTube's pay-per-view service drew over one million viewers, making it the largest non-professional boxing match of all time in terms of paying viewers. The rematch is streamed live on DAZN. Although the first fight was amateur, the pair turn pro for this rematch, removing the headgear they wore for their 2018 bout * KSI initially challenged Logan to a fight after the latter caused widespread controversy for posting a video in which he happens upon a suspected suicide in a Japanese forest",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": true,
+      "isTopStory": true,
+      "isAnnual": false,
+      "createDate": "2019-09-04T12:54:00.093",
+      "startDate": "2019-11-09T00:00:00",
+      "endDate": "2019-11-09T00:00:00",
+      "time": "2019-10-16T17:00:00",
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "STAPLES Center, 1111 S Figueroa St, Los Angeles, CA",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "OP Talent",
+      "organisationId": 122306,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 257126,
+          "organisationID": 122306,
+          "pressContactName": "Liam Chivers",
+          "pressContactOffice": "OP Talent",
+          "pressContactTelephone": "",
+          "pressContactMobile": "+ 44 (0) 7748 337 035",
+          "pressContactEmail": "liam@optalent.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        },
+        {
+          "pressContactID": 279292,
+          "organisationID": 20557,
+          "pressContactName": "",
+          "pressContactOffice": "Matchroom",
+          "pressContactTelephone": "+44 (0) 1277 359 900",
+          "pressContactMobile": "",
+          "pressContactEmail": "boxing@matchroom.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": "",
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        },
+        {
+          "pressContactID": 287298,
+          "organisationID": 129085,
+          "pressContactName": "Brian Karpas",
+          "pressContactOffice": "DAZN",
+          "pressContactTelephone": "",
+          "pressContactMobile": "",
+          "pressContactEmail": "Brian.Karpas@dazn.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": "",
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 229,
+          "categoryName": "Sport News / Business",
+          "categoryOrder": 117
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 105,
+          "categoryName": "Technology / Gadgets",
+          "categoryOrder": 10300
+        },
+        {
+          "categoryId": 50,
+          "categoryName": "Tech - Internet, software & new media",
+          "categoryOrder": 16800
+        },
+        {
+          "categoryId": 164,
+          "categoryName": "Entertainment Headlines",
+          "categoryOrder": 15
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        },
+        {
+          "categoryId": 22,
+          "categoryName": "Sport Fixtures",
+          "categoryOrder": 115
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "United States",
+      "twitterWebsite": "OP_Talent",
+      "twitterHashtag": "KSILogan",
+      "timezone": "PST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9512187,
+          "itemID": 3782190,
+          "pressContactID": 257126,
+          "pressContact": {
+            "pressContactID": 257126,
+            "organisationID": 122306,
+            "pressContactName": "Liam Chivers",
+            "pressContactOffice": "OP Talent",
+            "pressContactTelephone": "",
+            "pressContactMobile": "+ 44 (0) 7748 337 035",
+            "pressContactEmail": "liam@optalent.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        },
+        {
+          "itemPressContactID": 9512188,
+          "itemID": 3782190,
+          "pressContactID": 279292,
+          "pressContact": {
+            "pressContactID": 279292,
+            "organisationID": 20557,
+            "pressContactName": "",
+            "pressContactOffice": "Matchroom",
+            "pressContactTelephone": "+44 (0) 1277 359 900",
+            "pressContactMobile": "",
+            "pressContactEmail": "boxing@matchroom.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": "",
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        },
+        {
+          "itemPressContactID": 9512189,
+          "itemID": 3782190,
+          "pressContactID": 287298,
+          "pressContact": {
+            "pressContactID": 287298,
+            "organisationID": 129085,
+            "pressContactName": "Brian Karpas",
+            "pressContactOffice": "DAZN",
+            "pressContactTelephone": "",
+            "pressContactMobile": "",
+            "pressContactEmail": "Brian.Karpas@dazn.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": "",
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3602324,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Skyscraper running race in Osaka, Japan",
+      "altSummary": "",
+      "description": "Harukas Skyrun, a vertical tower race in Osaka, Japan, the seventh event in the eleventh-race Vertical World Circuit, travelling up 1,610 steps over 59 floors",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 10759,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-04T21:01:45.517",
+      "startDate": "2019-11-10T00:00:00",
+      "endDate": "2019-11-10T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Abeno Harukas, Osaka",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Vertical World Circuit",
+      "organisationId": 71699,
+      "comments": "chk details",
+      "contacts": [
+        {
+          "pressContactID": 258416,
+          "organisationID": 71699,
+          "pressContactName": "David Shin",
+          "pressContactOffice": "Vertical World Circuit ",
+          "pressContactTelephone": "(852) 3757 6913 ",
+          "pressContactMobile": "",
+          "pressContactEmail": "media@sportingrepublic.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 22,
+          "categoryName": "Sport Fixtures",
+          "categoryOrder": 115
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        }
+      ],
+      "periodYear": null,
+      "teamId": 6,
+      "website": "http://www.verticalrunning.org/",
+      "countryName": "Japan",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9422869,
+          "itemID": 3602324,
+          "pressContactID": 258416,
+          "pressContact": {
+            "pressContactID": 258416,
+            "organisationID": 71699,
+            "pressContactName": "David Shin",
+            "pressContactOffice": "Vertical World Circuit ",
+            "pressContactTelephone": "(852) 3757 6913 ",
+            "pressContactMobile": "",
+            "pressContactEmail": "media@sportingrepublic.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3609689,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "",
+      "altSummary": "",
+      "description": "International Intercollegiate Meat Judging Contest",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 4627,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-11T21:02:18.717",
+      "startDate": "2019-11-10T00:00:00",
+      "endDate": "2019-11-10T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Tyson Fresh Meats, 5200 Ibp Avenue, Dakota City, NE",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "American Meat Science Association",
+      "organisationId": 51389,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 89817,
+          "organisationID": 51389,
+          "pressContactName": "",
+          "pressContactOffice": "AMSA",
+          "pressContactTelephone": "1 217 356 5370",
+          "pressContactMobile": "",
+          "pressContactEmail": "",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 136,
+          "categoryName": "Agriculture / Farming",
+          "categoryOrder": 170
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        }
+      ],
+      "periodYear": null,
+      "teamId": 4,
+      "website": "http://www.meatscience.org/students/meat-judging-program",
+      "countryName": "United States",
+      "twitterWebsite": "meatscience",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9386402,
+          "itemID": 3609689,
+          "pressContactID": 89817,
+          "pressContact": {
+            "pressContactID": 89817,
+            "organisationID": 51389,
+            "pressContactName": "",
+            "pressContactOffice": "AMSA",
+            "pressContactTelephone": "1 217 356 5370",
+            "pressContactMobile": "",
+            "pressContactEmail": "",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3609688,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Singles' Day in China",
+      "altSummary": null,
+      "description": "Singles' Day, Chinese tradition when unattached men and women receive gifts or dinner invitations from friends in relationships, celebrated on the 11th day of the 11th month, as they are encouraged to socialise more. Singles Day is also one of the largest online shopping days in the world as Chinese single people are encouraged by e-retailers such as Alibaba to shop online * Also known as Double Eleven in reference to the date",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 4627,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-11T21:02:09.543",
+      "startDate": "2019-11-11T00:00:00",
+      "endDate": "2019-11-11T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "",
+      "organisationId": 0,
+      "comments": "fixed - 11 Nov",
+      "contacts": [],
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryName": "International News",
+          "categoryOrder": 95
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 149,
+          "categoryName": "Retail Therapy",
+          "categoryOrder": 10000
+        },
+        {
+          "categoryId": 102,
+          "categoryName": "Sex & Relationships",
+          "categoryOrder": 10200
+        },
+        {
+          "categoryId": 215,
+          "categoryName": "US Lifestyle Top Stories",
+          "categoryOrder": 8100
+        },
+        {
+          "categoryId": 106,
+          "categoryName": "Wining & Dining",
+          "categoryOrder": 11000
+        },
+        {
+          "categoryId": 241,
+          "categoryName": "US Business Top Stories",
+          "categoryOrder": 19500
+        },
+        {
+          "categoryId": 49,
+          "categoryName": "General Retailers",
+          "categoryOrder": 15700
+        },
+        {
+          "categoryId": 42,
+          "categoryName": "Leisure & Hospitality",
+          "categoryOrder": 16100
+        },
+        {
+          "categoryId": 50,
+          "categoryName": "Tech - Internet, software & new media",
+          "categoryOrder": 16800
+        },
+        {
+          "categoryId": 58,
+          "categoryName": "Business Top Stories",
+          "categoryOrder": 27
+        },
+        {
+          "categoryId": 185,
+          "categoryName": "International Business News",
+          "categoryOrder": 36
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        }
+      ],
+      "periodYear": null,
+      "teamId": 4,
+      "website": "",
+      "countryName": "China",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3610809,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Kindness Day UK",
+      "altSummary": "",
+      "description": "Kindness Day UK, annual day launched by 'Secret Millionaire' David Jamilly and UK Kindness Movement founder Louise Burfitt-Dons in a bid to make acts of kindness a greater part of everyday life in the UK. The pair are currently lobbying the United Nations to recognise it as an official national day",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20283,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-13T21:19:08.923",
+      "startDate": "2019-11-13T00:00:00",
+      "endDate": "2019-11-13T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Kindness Day",
+      "organisationId": 64112,
+      "comments": "fixed",
+      "contacts": [
+        {
+          "pressContactID": 118994,
+          "organisationID": 64112,
+          "pressContactName": "",
+          "pressContactOffice": "Kindness Day UK press",
+          "pressContactTelephone": "+ 44 (0) 20 8452 8518",
+          "pressContactMobile": "",
+          "pressContactEmail": "press@kindnessuk.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 98,
+          "categoryName": "Awareness Days & Campaigns",
+          "categoryOrder": 155
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 144,
+          "categoryName": "Social Issues",
+          "categoryOrder": 135
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 101,
+          "categoryName": "Health & Wellbeing",
+          "categoryOrder": 8900
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.kindnessdayuk.com",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "TeamKindnessUK",
+      "twitterHashtag": "KindnessDayUK",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9389071,
+          "itemID": 3610809,
+          "pressContactID": 118994,
+          "pressContact": {
+            "pressContactID": 118994,
+            "organisationID": 64112,
+            "pressContactName": "",
+            "pressContactOffice": "Kindness Day UK press",
+            "pressContactTelephone": "+ 44 (0) 20 8452 8518",
+            "pressContactMobile": "",
+            "pressContactEmail": "press@kindnessuk.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3606736,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Guinness World Records Day",
+      "altSummary": "",
+      "description": "15th International Guinness World Records Day, held annually to commemorate 'Guinness World Records' becoming the world's bestselling copyright book (2004) and marked by record-breaking attempts around the world. Any records set today are shortlisted for inclusion in next year's edition of the book",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 18073,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-08T21:06:16.407",
+      "startDate": "2019-11-14T00:00:00",
+      "endDate": "2019-11-14T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Guinness World Records",
+      "organisationId": 22742,
+      "comments": "always a Thursday mid Nov",
+      "contacts": [
+        {
+          "pressContactID": 171190,
+          "organisationID": 22742,
+          "pressContactName": "Doug Male",
+          "pressContactOffice": "Guinness World Records PR manager",
+          "pressContactTelephone": "+ 44 (0) 20 7891 4518",
+          "pressContactMobile": "",
+          "pressContactEmail": "Doug.Male@guinnessworldrecords.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "GWRPRESS",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 80,
+          "categoryName": "Books",
+          "categoryOrder": 6200
+        },
+        {
+          "categoryId": 213,
+          "categoryName": "US Entertainment Top Stories",
+          "categoryOrder": 5700
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.guinnessworldrecords.com/",
+      "countryName": "International",
+      "twitterWebsite": "GWR",
+      "twitterHashtag": "GWRday",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9485768,
+          "itemID": 3606736,
+          "pressContactID": 171190,
+          "pressContact": {
+            "pressContactID": 171190,
+            "organisationID": 22742,
+            "pressContactName": "Doug Male",
+            "pressContactOffice": "Guinness World Records PR manager",
+            "pressContactTelephone": "+ 44 (0) 20 7891 4518",
+            "pressContactMobile": "",
+            "pressContactEmail": "Doug.Male@guinnessworldrecords.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "GWRPRESS",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3613508,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Oxford Dictionaries Word of the Year announced",
+      "altSummary": "",
+      "description": "Oxford Dictionaries Word of the Year 2019 announced * Last year's word was 'Toxic', defined as 'a significant cultural, political, or social change arising from the actions or influence of young people'",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 18073,
+      "isConfirmed": false,
+      "isProvisional": true,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-15T21:17:16.817",
+      "startDate": "2019-11-14T00:00:00",
+      "endDate": "2019-11-14T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Oxford University Press",
+      "organisationId": 16032,
+      "comments": "chk provisional - 18 Sep 'I’m not sure of the exact date as yet but it will be end of November. I’ll send as soon as we have' * Added separately to US site cos of embargoes (and they sometimes do different words for UK and US) so update that too, e 17 oct",
+      "contacts": [
+        {
+          "pressContactID": 260718,
+          "organisationID": 16032,
+          "pressContactName": "Kate Shepherd ",
+          "pressContactOffice": "OUP",
+          "pressContactTelephone": "",
+          "pressContactMobile": "",
+          "pressContactEmail": "Kate.Shepherd@oup.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 82,
+          "categoryName": "Media News & PR",
+          "categoryOrder": 145
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 100,
+          "categoryName": "Arts & Culture",
+          "categoryOrder": 5850
+        },
+        {
+          "categoryId": 80,
+          "categoryName": "Books",
+          "categoryOrder": 6200
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.oup.co.uk",
+      "countryName": "International",
+      "twitterWebsite": "OxfordWords",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9514059,
+          "itemID": 3613508,
+          "pressContactID": 260718,
+          "pressContact": {
+            "pressContactID": 260718,
+            "organisationID": 16032,
+            "pressContactName": "Kate Shepherd ",
+            "pressContactOffice": "OUP",
+            "pressContactTelephone": "",
+            "pressContactMobile": "",
+            "pressContactEmail": "Kate.Shepherd@oup.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3613518,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Flat Earth International Conference",
+      "altSummary": "",
+      "description": "Flat Earth International Conference, 3rd annual conference exploring alternatives to the spinning heliocentric theory of cosmology and the existence of a flat, stationary plane",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20283,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-15T21:17:34.837",
+      "startDate": "2019-11-14T00:00:00",
+      "endDate": "2019-11-15T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Embassy Suites Dallas Frisco Hotel Convention Center & Spa, 7600 John Q Hammons Dr, Frisco, TX",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Flat Earth International Conference",
+      "organisationId": 122531,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 257771,
+          "organisationID": 122531,
+          "pressContactName": "Robbie Davidson",
+          "pressContactOffice": "Kryptoz Media",
+          "pressContactTelephone": "1 780 993 9004",
+          "pressContactMobile": "",
+          "pressContactEmail": "robbied@gmail.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 135,
+          "categoryName": "Science",
+          "categoryOrder": 190
+        },
+        {
+          "categoryId": 116,
+          "categoryName": "Religion & Ethics",
+          "categoryOrder": 9900
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "FlatEarthConference.com",
+      "countryName": "United States",
+      "twitterWebsite": "feconference",
+      "twitterHashtag": "FEIC2019",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9374495,
+          "itemID": 3613518,
+          "pressContactID": 257771,
+          "pressContact": {
+            "pressContactID": 257771,
+            "organisationID": 122531,
+            "pressContactName": "Robbie Davidson",
+            "pressContactOffice": "Kryptoz Media",
+            "pressContactTelephone": "1 780 993 9004",
+            "pressContactMobile": "",
+            "pressContactEmail": "robbied@gmail.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3789815,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "World's first museum of the vagina launches with VIP opening party",
+      "altSummary": "",
+      "description": "VIP launch party held for The Vagina Museum, the world's first physical museum dedicated to the gynaecological anatomy, ahead of its public grand opening tomorrow. Situated in London's Camden Market, the museum launches with the exhibition 'Muff Busters: Vagina Myths and How to Fight Them', exploring myths and misconceptions about the vagina. The free museum was started by director Florence Schechter as a pop-up in March 2017 after she discovered Iceland has a Penis Museum, but there was no female equivalent anywhere in the world. The permanent extension has been established after a crowdfunding campaign raised almost £50k from supporters around the world. An outreach programme is expected to support healthy and inclusive sex and relationship education in association with doctors and other medical professionals. The museum is also available to hire for private parties * An online Vagina Museum was founded in Austria in 2014",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 18073,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": true,
+      "isTopStory": true,
+      "isAnnual": false,
+      "createDate": "2019-09-19T15:38:51.213",
+      "startDate": "2019-11-15T00:00:00",
+      "endDate": "2019-11-15T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Vagina Museum, London",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Vagina Museum",
+      "organisationId": 132753,
+      "comments": "chk guests, nothing 17 oct",
+      "contacts": [
+        {
+          "pressContactID": 288272,
+          "organisationID": 132753,
+          "pressContactName": "Zoe Williams",
+          "pressContactOffice": "Vagina Museum",
+          "pressContactTelephone": "",
+          "pressContactMobile": "+ 44 (0) 7840 545 982",
+          "pressContactEmail": "zoe.williams@vaginamuseum.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": "",
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 101,
+          "categoryName": "Health & Wellbeing",
+          "categoryOrder": 8900
+        },
+        {
+          "categoryId": 164,
+          "categoryName": "Entertainment Headlines",
+          "categoryOrder": 15
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        },
+        {
+          "categoryId": 165,
+          "categoryName": "Lifestyle Headlines",
+          "categoryOrder": 20
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        },
+        {
+          "categoryId": 42,
+          "categoryName": "Leisure & Hospitality",
+          "categoryOrder": 16100
+        },
+        {
+          "categoryId": 62,
+          "categoryName": "Health News",
+          "categoryOrder": 50
+        },
+        {
+          "categoryId": 100,
+          "categoryName": "Arts & Culture",
+          "categoryOrder": 5850
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 87,
+          "categoryName": "Education",
+          "categoryOrder": 55
+        },
+        {
+          "categoryId": 161,
+          "categoryName": "Press Previews",
+          "categoryOrder": 9700
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "https://www.vaginamuseum.co.uk",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "vagina_museum",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9515643,
+          "itemID": 3789815,
+          "pressContactID": 288272,
+          "pressContact": {
+            "pressContactID": 288272,
+            "organisationID": 132753,
+            "pressContactName": "Zoe Williams",
+            "pressContactOffice": "Vagina Museum",
+            "pressContactTelephone": "",
+            "pressContactMobile": "+ 44 (0) 7840 545 982",
+            "pressContactEmail": "zoe.williams@vaginamuseum.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": "",
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3609583,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Digital Kids Show",
+      "altSummary": "",
+      "description": "Digital Kids Show, featuring digital products, tech toys, apps and appearances by YouTubers. Highlights include live dance performances by 'Britains Got Talent: Champions' finalists MerseyGirls, a real-life arcade, and ice skating rink ",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-10T21:00:50.977",
+      "startDate": "2019-11-16T00:00:00",
+      "endDate": "2019-11-17T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Manchester Central Convention Complex, Manchester",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Engage Media Solutions",
+      "organisationId": 79208,
+      "comments": "chk highlights * first event in Oct 2016, 2nd Nov 2017",
+      "contacts": [
+        {
+          "pressContactID": 210907,
+          "organisationID": 79208,
+          "pressContactName": "",
+          "pressContactOffice": "Digital Kids Show",
+          "pressContactTelephone": "+44 (0)844 225 0650",
+          "pressContactMobile": "",
+          "pressContactEmail": "info@digitalkidsshow.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 64,
+          "categoryName": "Consumer Exhibitions & Fairs",
+          "categoryOrder": 6500
+        },
+        {
+          "categoryId": 104,
+          "categoryName": "Children (0-12 years)",
+          "categoryOrder": 8400
+        },
+        {
+          "categoryId": 76,
+          "categoryName": "Dance",
+          "categoryOrder": 6550
+        },
+        {
+          "categoryId": 105,
+          "categoryName": "Technology / Gadgets",
+          "categoryOrder": 10300
+        },
+        {
+          "categoryId": 150,
+          "categoryName": "Toys & Games",
+          "categoryOrder": 10400
+        },
+        {
+          "categoryId": 41,
+          "categoryName": "Tech - Hardware",
+          "categoryOrder": 16700
+        },
+        {
+          "categoryId": 50,
+          "categoryName": "Tech - Internet, software & new media",
+          "categoryOrder": 16800
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.digitalkidsshow.co.uk/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "Digitalkidsshow",
+      "twitterHashtag": "digikids",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9502619,
+          "itemID": 3609583,
+          "pressContactID": 210907,
+          "pressContact": {
+            "pressContactID": 210907,
+            "organisationID": 79208,
+            "pressContactName": "",
+            "pressContactOffice": "Digital Kids Show",
+            "pressContactTelephone": "+44 (0)844 225 0650",
+            "pressContactMobile": "",
+            "pressContactEmail": "info@digitalkidsshow.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3789814,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "World's first museum of the vagina opens in London",
+      "altSummary": "",
+      "description": "The Vagina Museum, the world's first physical museum dedicated to the gynaecological anatomy opens to the public in London's Camden Market, launching with the exhibition 'Muff Busters: Vagina Myths and How to Fight Them', exploring myths and misconceptions about the vagina. The free museum was started by director Florence Schechter as a pop-up in March 2017 after she discovered Iceland has a Penis Museum, but there was no female equivalent anywhere in the world. The permanent extension has been established after a crowdfunding campaign raised almost £50k from supporters around the world. An outreach programme is expected to support healthy and inclusive sex and relationship education in association with doctors and other medical professionals. The museum is also available to hire for private parties * An online Vagina Museum was founded in Austria in 2014",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": true,
+      "isTopStory": true,
+      "isAnnual": false,
+      "createDate": "2019-09-19T15:36:19.447",
+      "startDate": "2019-11-16T00:00:00",
+      "endDate": "2019-11-16T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Vagina Museum, London",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Vagina Museum",
+      "organisationId": 132753,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 288272,
+          "organisationID": 132753,
+          "pressContactName": "Zoe Williams",
+          "pressContactOffice": "Vagina Museum",
+          "pressContactTelephone": "",
+          "pressContactMobile": "+ 44 (0) 7840 545 982",
+          "pressContactEmail": "zoe.williams@vaginamuseum.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": "",
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 101,
+          "categoryName": "Health & Wellbeing",
+          "categoryOrder": 8900
+        },
+        {
+          "categoryId": 164,
+          "categoryName": "Entertainment Headlines",
+          "categoryOrder": 15
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        },
+        {
+          "categoryId": 165,
+          "categoryName": "Lifestyle Headlines",
+          "categoryOrder": 20
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        },
+        {
+          "categoryId": 42,
+          "categoryName": "Leisure & Hospitality",
+          "categoryOrder": 16100
+        },
+        {
+          "categoryId": 62,
+          "categoryName": "Health News",
+          "categoryOrder": 50
+        },
+        {
+          "categoryId": 100,
+          "categoryName": "Arts & Culture",
+          "categoryOrder": 5850
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 87,
+          "categoryName": "Education",
+          "categoryOrder": 55
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "https://www.vaginamuseum.co.uk",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "vagina_museum",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9514003,
+          "itemID": 3789814,
+          "pressContactID": 288272,
+          "pressContact": {
+            "pressContactID": 288272,
+            "organisationID": 132753,
+            "pressContactName": "Zoe Williams",
+            "pressContactOffice": "Vagina Museum",
+            "pressContactTelephone": "",
+            "pressContactMobile": "+ 44 (0) 7840 545 982",
+            "pressContactEmail": "zoe.williams@vaginamuseum.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": "",
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3615181,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Idler Academy Bad Grammar Award winners announced",
+      "altSummary": "",
+      "description": "Idler Academy Bad Grammar Award winners announced. Prize recognises 'horrific examples of bad grammar' from the worlds of politics, literature, advertising, corporate communication and beyond, with entries accepted from any official form of communication",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": true,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-19T21:05:39.583",
+      "startDate": "2019-11-18T00:00:00",
+      "endDate": "2019-11-18T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": true,
+      "organisation": "Idler Academy",
+      "organisationId": 66382,
+      "comments": "chk provisional, venue, panel, announcer - emailed 9 Oct",
+      "contacts": [
+        {
+          "pressContactID": 124873,
+          "organisationID": 66382,
+          "pressContactName": "Victoria Hull",
+          "pressContactOffice": "The Idler",
+          "pressContactTelephone": "+ 44 (0) 20 7221 5908",
+          "pressContactMobile": "",
+          "pressContactEmail": "victoria@idler.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 82,
+          "categoryName": "Media News & PR",
+          "categoryOrder": 145
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 83,
+          "categoryName": "Politics Westminster",
+          "categoryOrder": 70
+        },
+        {
+          "categoryId": 100,
+          "categoryName": "Arts & Culture",
+          "categoryOrder": 5850
+        },
+        {
+          "categoryId": 80,
+          "categoryName": "Books",
+          "categoryOrder": 6200
+        },
+        {
+          "categoryId": 24,
+          "categoryName": "Advertising, Marketing & Design",
+          "categoryOrder": 14200
+        },
+        {
+          "categoryId": 51,
+          "categoryName": "Business Services",
+          "categoryOrder": 14500
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.idler.co.uk/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "idler",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9502127,
+          "itemID": 3615181,
+          "pressContactID": 124873,
+          "pressContact": {
+            "pressContactID": 124873,
+            "organisationID": 66382,
+            "pressContactName": "Victoria Hull",
+            "pressContactOffice": "The Idler",
+            "pressContactTelephone": "+ 44 (0) 20 7221 5908",
+            "pressContactMobile": "",
+            "pressContactEmail": "victoria@idler.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3799542,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "KISS perform concert for great white sharks in Australia ",
+      "altSummary": "",
+      "description": "KISS perform a concert for great white sharks off the southern coast of Australia as part of a promotion for Airbnb's new Animal Experiences - a travel programme catered to animal lovers. Dubbed 'Shark Rock City', the band perform above water, with their performance broadcast underwater via speakers, creating vibrations that will entice the sharks to the location. According to Airbnb, sharks are apparently attracted by the 'low-frequency sounds of rock and roll'",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": false,
+      "createDate": "2019-10-10T11:31:03.08",
+      "startDate": "2019-11-18T00:00:00",
+      "endDate": "2019-11-18T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Port Lincoln",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "",
+      "organisationId": 29256,
+      "comments": "Correct 10 Oct ",
+      "contacts": [
+        {
+          "pressContactID": 103612,
+          "organisationID": 29256,
+          "pressContactName": "Kristen Foster",
+          "pressContactOffice": "PMK-BNC",
+          "pressContactTelephone": "1 310 854 4742",
+          "pressContactMobile": "",
+          "pressContactEmail": "Kristen.Foster@pmkbnc.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 71,
+          "categoryName": "Music - Gigs & Festivals",
+          "categoryOrder": 7100
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 137,
+          "categoryName": "Animals / Pets",
+          "categoryOrder": 8200
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "Australia",
+      "twitterWebsite": "KISSOnline",
+      "twitterHashtag": "",
+      "timezone": "AEDT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9514020,
+          "itemID": 3799542,
+          "pressContactID": 103612,
+          "pressContact": {
+            "pressContactID": 103612,
+            "organisationID": 29256,
+            "pressContactName": "Kristen Foster",
+            "pressContactOffice": "PMK-BNC",
+            "pressContactTelephone": "1 310 854 4742",
+            "pressContactMobile": "",
+            "pressContactEmail": "Kristen.Foster@pmkbnc.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3611966,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "World Championship Scotch Pie Awards judging",
+      "altSummary": "",
+      "description": "21st World Championship Scotch Pie Awards judging, with categories for Scotch Pie, Football Pies & Savouries, Macaroni Pie, Steak Pie, Sausage Roll, Cold Savoury, Hot Savoury, Vegetarian Savoury, Haggis Savoury, Bridie and Apple Pie",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 4627,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-14T21:17:12.06",
+      "startDate": "2019-11-20T00:00:00",
+      "endDate": "2019-11-20T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Scottish Bakers",
+      "organisationId": 70046,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 223273,
+          "organisationID": 109596,
+          "pressContactName": "Julie Fourcade ",
+          "pressContactOffice": "Fourcade Communications",
+          "pressContactTelephone": "+ 44 (0) 1903 741 546",
+          "pressContactMobile": "+ 44 (0) 7850 523 615",
+          "pressContactEmail": "julie@fourcade.co.uk",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 230,
+          "categoryName": "Scottish News & Events",
+          "categoryOrder": 18800
+        },
+        {
+          "categoryId": 229,
+          "categoryName": "Sport News / Business",
+          "categoryOrder": 117
+        },
+        {
+          "categoryId": 106,
+          "categoryName": "Wining & Dining",
+          "categoryOrder": 11000
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "www.worldchampionshipscotchpieawards.org",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "ScottishBakers",
+      "twitterHashtag": "ScotchPieAwards",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9497420,
+          "itemID": 3611966,
+          "pressContactID": 223273,
+          "pressContact": {
+            "pressContactID": 223273,
+            "organisationID": 109596,
+            "pressContactName": "Julie Fourcade ",
+            "pressContactOffice": "Fourcade Communications",
+            "pressContactTelephone": "+ 44 (0) 1903 741 546",
+            "pressContactMobile": "+ 44 (0) 7850 523 615",
+            "pressContactEmail": "julie@fourcade.co.uk",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3615778,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Trumps pardon National Thanksgiving Turkey",
+      "altSummary": null,
+      "description": "U.S. President Donald Trump and First Lady Melania Trump pardon the National Thanksgiving Turkey via a ceremony in the White House Rose Garden",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 10000,
+      "isConfirmed": false,
+      "isProvisional": true,
+      "isCheck": true,
+      "isLive": false,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-20T21:11:38.76",
+      "startDate": "2019-11-20T00:00:00",
+      "endDate": "2019-11-20T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "The White House, 1600 Pennsylvania Avenue Northwest, Washington, DC",
+      "isTimeTba": false,
+      "isVenueTba": true,
+      "organisation": "U.S. President ",
+      "organisationId": 11893,
+      "comments": "chk provisional, diff summ **** FMI: 2003 - Monday before Thanksgiving, 2004 - ?, 2005/2006 - day before, 2007 -  two days before, 2008-2016 - day before, 2017/2018 - two days before",
+      "contacts": [
+        {
+          "pressContactID": 20766,
+          "organisationID": 11893,
+          "pressContactName": "",
+          "pressContactOffice": "White House press",
+          "pressContactTelephone": "1 202 456 2580",
+          "pressContactMobile": "",
+          "pressContactEmail": "",
+          "pressContactComment": "was 1 202 456 2673, which always seems to have worked too",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 136,
+          "categoryName": "Agriculture / Farming",
+          "categoryOrder": 170
+        },
+        {
+          "categoryId": 18,
+          "categoryName": "International News",
+          "categoryOrder": 95
+        },
+        {
+          "categoryId": 140,
+          "categoryName": "NGOs, Charities & Pressure Groups",
+          "categoryOrder": 160
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 137,
+          "categoryName": "Animals / Pets",
+          "categoryOrder": 8200
+        },
+        {
+          "categoryId": 125,
+          "categoryName": "Seasonal Events & Celebrations",
+          "categoryOrder": 10100
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        }
+      ],
+      "periodYear": null,
+      "teamId": 2,
+      "website": "www.whitehouse.gov",
+      "countryName": "United States",
+      "twitterWebsite": "WhiteHouse",
+      "twitterHashtag": "",
+      "timezone": "EST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 8980831,
+          "itemID": 3615778,
+          "pressContactID": 20766,
+          "pressContact": {
+            "pressContactID": 20766,
+            "organisationID": 11893,
+            "pressContactName": "",
+            "pressContactOffice": "White House press",
+            "pressContactTelephone": "1 202 456 2580",
+            "pressContactMobile": "",
+            "pressContactEmail": "",
+            "pressContactComment": "was 1 202 456 2673, which always seems to have worked too",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3613394,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Annual Beaujolais Nouveau wine journey begins in France",
+      "altSummary": "",
+      "description": "Beaujolais Nouveau Day, when over a million cases of Beaujolais Nouveau wine begin the annual celebratory journey from the Beaujolais region to Paris, before being shipped around the world. By French law, the wine cannot be released any earlier than the third Thursday of November each year",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 10759,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-15T21:14:12.983",
+      "startDate": "2019-11-21T00:00:00",
+      "endDate": "2019-11-21T00:00:00",
+      "time": "2019-08-05T00:01:00",
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Beaujolais Nouveau",
+      "organisationId": 49633,
+      "comments": "By French law, the wine cannot be released any earlier than 3rd Thursday of Nov each year, also see http://www.beaujolaisnouveauday.com",
+      "contacts": [
+        {
+          "pressContactID": 85476,
+          "organisationID": 49633,
+          "pressContactName": "",
+          "pressContactOffice": "Beaujolais Nouveau",
+          "pressContactTelephone": "",
+          "pressContactMobile": "",
+          "pressContactEmail": "interbeaujolais@beaujolais.net",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 211,
+          "categoryName": "US Top Stories",
+          "categoryOrder": 5300
+        },
+        {
+          "categoryId": 108,
+          "categoryName": "Travel & Tourism",
+          "categoryOrder": 10500
+        },
+        {
+          "categoryId": 215,
+          "categoryName": "US Lifestyle Top Stories",
+          "categoryOrder": 8100
+        },
+        {
+          "categoryId": 106,
+          "categoryName": "Wining & Dining",
+          "categoryOrder": 11000
+        },
+        {
+          "categoryId": 37,
+          "categoryName": "Food, Drink & Tobacco",
+          "categoryOrder": 15500
+        },
+        {
+          "categoryId": 206,
+          "categoryName": "Lifestyle Top Stories",
+          "categoryOrder": 35
+        },
+        {
+          "categoryId": 138,
+          "categoryName": "News Top Stories",
+          "categoryOrder": 25
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.beaujolaisgourmand.com/",
+      "countryName": "France",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "CET",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9406972,
+          "itemID": 3613394,
+          "pressContactID": 85476,
+          "pressContact": {
+            "pressContactID": 85476,
+            "organisationID": 49633,
+            "pressContactName": "",
+            "pressContactOffice": "Beaujolais Nouveau",
+            "pressContactTelephone": "",
+            "pressContactMobile": "",
+            "pressContactEmail": "interbeaujolais@beaujolais.net",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3613395,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "World's Biggest Liar Competition",
+      "altSummary": "",
+      "description": "World's Biggest Liar Competition, annual evening of tall stories and extraordinary tales during which competitors have five minutes to tell the biggest and most convincing lie they can in front of a panel of judges",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": true,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-15T21:14:14.773",
+      "startDate": "2019-11-21T00:00:00",
+      "endDate": "2019-11-21T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "Bridge Inn, Holmrook",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Jennings Brewery",
+      "organisationId": 61458,
+      "comments": "chk provisional, venue",
+      "contacts": [
+        {
+          "pressContactID": 112649,
+          "organisationID": 61458,
+          "pressContactName": "",
+          "pressContactOffice": "Jennings Brewery",
+          "pressContactTelephone": "+44 (0) 1900 820362",
+          "pressContactMobile": "",
+          "pressContactEmail": "",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 132,
+          "categoryName": "Comedy",
+          "categoryOrder": 6400
+        },
+        {
+          "categoryId": 148,
+          "categoryName": "Nightlife",
+          "categoryOrder": 9600
+        },
+        {
+          "categoryId": 42,
+          "categoryName": "Leisure & Hospitality",
+          "categoryOrder": 16100
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.jenningsbrewery.co.uk",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "JenningsBrewery",
+      "twitterHashtag": "",
+      "timezone": "BST",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9471949,
+          "itemID": 3613395,
+          "pressContactID": 112649,
+          "pressContact": {
+            "pressContactID": 112649,
+            "organisationID": 61458,
+            "pressContactName": "",
+            "pressContactOffice": "Jennings Brewery",
+            "pressContactTelephone": "+44 (0) 1900 820362",
+            "pressContactMobile": "",
+            "pressContactEmail": "",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3616451,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Entry deadline for spoof version of The Turner Prize",
+      "altSummary": "",
+      "description": "Entry deadline for The Turnip Prize, a spoof version of The Turner Prize. The motto of the prize is 'We know it's s---, but is it art?'. Marks awarded against the following criteria: 'Lack of effort'; 'Alliteration or pun used in title'; and 'Is it s---?'. Winner presented with a turnip mounted on a six-inch rusty nail on 3 Dec",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 8586,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": false,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-21T21:12:18.443",
+      "startDate": "2019-11-21T00:00:00",
+      "endDate": "2019-11-21T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "The Turnip Prize",
+      "organisationId": 60429,
+      "comments": "",
+      "contacts": [
+        {
+          "pressContactID": 110401,
+          "organisationID": 60429,
+          "pressContactName": "Trevor Prideaux",
+          "pressContactOffice": "The Turnip Prize",
+          "pressContactTelephone": "+44 (0)7812 848 011",
+          "pressContactMobile": "",
+          "pressContactEmail": "trevorprideaux@hotmail.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 75,
+          "categoryName": "Art",
+          "categoryOrder": 5800
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9468404,
+          "itemID": 3616451,
+          "pressContactID": 110401,
+          "pressContact": {
+            "pressContactID": 110401,
+            "organisationID": 60429,
+            "pressContactName": "Trevor Prideaux",
+            "pressContactOffice": "The Turnip Prize",
+            "pressContactTelephone": "+44 (0)7812 848 011",
+            "pressContactMobile": "",
+            "pressContactEmail": "trevorprideaux@hotmail.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3617695,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Diagram Prize for oddest book title of 2019 announced",
+      "altSummary": "",
+      "description": "Winner of the 2019 Diagram Prize for oddest book title of the year announced, voted on by the public * Although no physical prize is awarded, a bottle of 'fairly passable' claret is traditionally given to the person who nominated the winning title, though this year the prize will be given to a random voting member of the public, since all the titles were nominated by the in-house team",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": true,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": true,
+      "isTopStory": true,
+      "isAnnual": true,
+      "createDate": "2018-11-23T21:10:27.82",
+      "startDate": "2019-11-22T00:00:00",
+      "endDate": "2019-11-22T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Bookseller Magazine",
+      "organisationId": 28700,
+      "comments": "chk provisional, shortlist - emailed 10 Oct",
+      "contacts": [
+        {
+          "pressContactID": 249909,
+          "organisationID": 28700,
+          "pressContactName": "",
+          "pressContactOffice": "The Bookseller",
+          "pressContactTelephone": "",
+          "pressContactMobile": "",
+          "pressContactEmail": "events@thebookseller.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 80,
+          "categoryName": "Books",
+          "categoryOrder": 6200
+        },
+        {
+          "categoryId": 132,
+          "categoryName": "Comedy",
+          "categoryOrder": 6400
+        },
+        {
+          "categoryId": 205,
+          "categoryName": "Entertainment Top Stories",
+          "categoryOrder": 30
+        },
+        {
+          "categoryId": 164,
+          "categoryName": "Entertainment Headlines",
+          "categoryOrder": 15
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://www.welovethisbook.com",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "thebookseller",
+      "twitterHashtag": "DiagramPrize",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9504021,
+          "itemID": 3617695,
+          "pressContactID": 249909,
+          "pressContact": {
+            "pressContactID": 249909,
+            "organisationID": 28700,
+            "pressContactName": "",
+            "pressContactOffice": "The Bookseller",
+            "pressContactTelephone": "",
+            "pressContactMobile": "",
+            "pressContactEmail": "events@thebookseller.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    },
+    {
+      "itemId": 3617743,
+      "ukItemId": 0,
+      "usItemId": 0,
+      "summary": "Beard of the Year and Parliamentary Beard of the Year shortlists announced",
+      "altSummary": "",
+      "description": "Beard of the Year and Parliamentary Beard of the Year shortlists announced. Former recognises the beard that has had the most positive impact in the public eye during 2019, while the latter rewards the MP who has given beards the most positive image. In August, cricketer Ben Stokes was given a free pass onto this year's Beard of the Year shortlist following his 'match winning performance' in the Third Ashes Test * Liverpool FC manager Jurgen Klopp earned an automatic place on the Beard of the Year shortlist in May following his team's dramatic 4-0 victory against Barcelona in the Champions League semi-finals",
+      "financialDescription": null,
+      "quarterDescription": null,
+      "marketTimeId": 0,
+      "userId": 20015,
+      "isConfirmed": false,
+      "isProvisional": false,
+      "isCheck": true,
+      "isLive": true,
+      "isFinancial": false,
+      "isHybrid": false,
+      "isApItem": false,
+      "isHeadline": false,
+      "isTopStory": false,
+      "isAnnual": true,
+      "createDate": "2018-11-23T21:10:53.18",
+      "startDate": "2019-11-22T00:00:00",
+      "endDate": "2019-11-22T00:00:00",
+      "time": null,
+      "reminderDate": null,
+      "embargoTime": null,
+      "venue": "",
+      "isTimeTba": false,
+      "isVenueTba": false,
+      "organisation": "Beard Liberation Front",
+      "organisationId": 19376,
+      "comments": "chk the Beard of the Year longlist ",
+      "contacts": [
+        {
+          "pressContactID": 23106,
+          "organisationID": 19376,
+          "pressContactName": "Keith Flett",
+          "pressContactOffice": "Beard Liberation Front",
+          "pressContactTelephone": "+44 (0) 7803 167 266",
+          "pressContactMobile": "",
+          "pressContactEmail": "keith.flett@bt.com",
+          "pressContactComment": "",
+          "pressContactTwitter": "",
+          "pressContactLinkedIn": null,
+          "deleted": false,
+          "excludeEmailOut": false,
+          "userId": null
+        }
+      ],
+      "categories": [
+        {
+          "categoryId": 99,
+          "categoryName": "Awards",
+          "categoryOrder": 150
+        },
+        {
+          "categoryId": 59,
+          "categoryName": "Offbeat",
+          "categoryOrder": 195
+        },
+        {
+          "categoryId": 83,
+          "categoryName": "Politics Westminster",
+          "categoryOrder": 70
+        },
+        {
+          "categoryId": 229,
+          "categoryName": "Sport News / Business",
+          "categoryOrder": 117
+        },
+        {
+          "categoryId": 66,
+          "categoryName": "Celebrity",
+          "categoryOrder": 6300
+        },
+        {
+          "categoryId": 79,
+          "categoryName": "Fashion & Beauty",
+          "categoryOrder": 8800
+        }
+      ],
+      "periodYear": null,
+      "teamId": 3,
+      "website": "http://kmflett.wordpress.com/",
+      "countryName": "United Kingdom",
+      "twitterWebsite": "kmflett",
+      "twitterHashtag": "",
+      "timezone": "GMT",
+      "itemContacts": [
+        {
+          "itemPressContactID": 9500626,
+          "itemID": 3617743,
+          "pressContactID": 23106,
+          "pressContact": {
+            "pressContactID": 23106,
+            "organisationID": 19376,
+            "pressContactName": "Keith Flett",
+            "pressContactOffice": "Beard Liberation Front",
+            "pressContactTelephone": "+44 (0) 7803 167 266",
+            "pressContactMobile": "",
+            "pressContactEmail": "keith.flett@bt.com",
+            "pressContactComment": "",
+            "pressContactTwitter": "",
+            "pressContactLinkedIn": null,
+            "deleted": false,
+            "excludeEmailOut": false,
+            "userId": null
+          }
+        }
+      ],
+      "amount": null,
+      "currency": null,
+      "order": null,
+      "isSelected": false,
+      "starredEvent": false,
+      "privateEvent": false
+    }
+  ]
+}
